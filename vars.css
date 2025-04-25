@@ -1,0 +1,22 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --button: #1ad079;
+  --backgroundwhite: #ffffff;
+  --backgroundblack: #0d1021;
+  --linear: linear-gradient(
+    241.28deg,
+    rgba(26, 208, 121, 1) 0%,
+    rgba(7, 142, 78, 1) 100%
+  );
+  --color-1: linear-gradient(
+    -64.56deg,
+    rgba(0, 87, 205, 1) 18.943598866462708%,
+    rgba(0, 44, 103, 1) 100%
+  );
+  --0057cd: #0057cd;
+
+  /* Fonts */
+  /* Effects */
+  --drop-shadow-box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.06);
+}
